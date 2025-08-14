@@ -17,7 +17,7 @@
 
 ## Description
 
-This project focuses on analyzing accident data in India, likely to identify patterns, trends, and factors contributing to accidents. The project utilizes Jupyter Notebooks for data analysis and visualization.
+This project analyzes accident data in India to identify patterns, trends, and factors contributing to accidents. It utilizes Jupyter Notebooks for data analysis and visualization.
 
 <!-- TODO: Add more details about the project's goals and objectives -->
 
@@ -32,7 +32,7 @@ This project focuses on analyzing accident data in India, likely to identify pat
 ## Tech Stack
 
 *   Jupyter Notebook
-*   Python (likely used within the notebook)
+*   Python
 
 <!-- TODO: List specific Python libraries used, such as pandas, matplotlib, seaborn, etc. -->
 
@@ -40,6 +40,7 @@ This project focuses on analyzing accident data in India, likely to identify pat
 
 ```text
 .
+├── Dataset
 ├── README.md
 └── accident_prediction_india.ipynb
 ```
@@ -52,15 +53,18 @@ This project focuses on analyzing accident data in India, likely to identify pat
 ## Installation
 
 1.  Clone the repository:
+
    ```bash
    git clone https://github.com/Abhinav-gowda/Accident_prediction_india-Data-analysis-project.git
    cd Accident_prediction_india-Data-analysis-project
    ```
 
 2.  Install the required Python libraries (if not already installed):
+
    ```bash
    # Example: pip install pandas matplotlib seaborn
    # Replace with the actual libraries used in the notebook
+   pip install pandas matplotlib seaborn
    ```
 
 ## Usage
@@ -78,10 +82,10 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` file for more information.
+Distributed under the MIT License. See the repository for more information.
 
 <!-- TODO: Create LICENSE file -->
 
 ## Contact
 
-Your Name - [Project Link](https://github.com/Abhinav-gowda/Accident_prediction_india-Data-analysis-project) - email@example.com
+Your Name - [Project Link](https://github.com/Abhinav-gowda/Accident_prediction_india-Data-analysis-project)
