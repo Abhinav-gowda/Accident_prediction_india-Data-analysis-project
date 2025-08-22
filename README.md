@@ -1,6 +1,7 @@
 # Accident Prediction in India - Data Analysis Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/Abhinav-gowda/Accident_prediction_india-Data-analysis-project/main.yml?branch=main)]()
 
 ## Table of Contents
 
@@ -19,22 +20,19 @@
 
 This project analyzes accident data in India to identify patterns, trends, and factors contributing to accidents. It utilizes Jupyter Notebooks for data analysis and visualization.
 
-<!-- TODO: Add more details about the project's goals and objectives -->
-
 ## Features
 
 *   Data analysis of accident datasets.
 *   Visualization of accident trends and patterns.
-*   Jupyter Notebook-based analysis.
-
-<!-- TODO: Elaborate on specific features and insights gained from the analysis -->
+*   Jupyter Notebook-based analysis for exploratory data analysis.
 
 ## Tech Stack
 
 *   Jupyter Notebook
 *   Python
-
-<!-- TODO: List specific Python libraries used, such as pandas, matplotlib, seaborn, etc. -->
+    *   pandas
+    *   matplotlib
+    *   seaborn
 
 ## File Structure Overview
 
@@ -42,6 +40,7 @@ This project analyzes accident data in India to identify patterns, trends, and f
 .
 ├── Dataset
 ├── README.md
+├── Report
 └── accident_prediction_india.ipynb
 ```
 
@@ -62,8 +61,6 @@ This project analyzes accident data in India to identify patterns, trends, and f
 2.  Install the required Python libraries (if not already installed):
 
    ```bash
-   # Example: pip install pandas matplotlib seaborn
-   # Replace with the actual libraries used in the notebook
    pip install pandas matplotlib seaborn
    ```
 
@@ -71,8 +68,6 @@ This project analyzes accident data in India to identify patterns, trends, and f
 
 1.  Open the `accident_prediction_india.ipynb` Jupyter Notebook.
 2.  Run the notebook cells to execute the analysis and generate visualizations.
-
-<!-- TODO: Add specific instructions on how to interact with the notebook and interpret the results -->
 
 ## Contributing
 
@@ -83,8 +78,6 @@ Please make sure to update tests as appropriate.
 ## License
 
 Distributed under the MIT License. See the repository for more information.
-
-<!-- TODO: Create LICENSE file -->
 
 ## Contact
 
