@@ -81,4 +81,4 @@ Distributed under the MIT License. See the repository for more information.
 
 ## Contact
 
-Your Name - [Project Link](https://github.com/Abhinav-gowda/Accident_prediction_india-Data-analysis-project)
+Your Name - abhinavgowda1305@gmail.com
